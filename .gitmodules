@@ -6,3 +6,7 @@
 	path = main-shoggoth-industries/themes/blowfish
 	url = https://github.com/nunocoracao/blowfish.git
 	branch = main
+[submodule "main_shoggoth/themes/blowfish"]
+	path = main_shoggoth/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
