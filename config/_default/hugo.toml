@@ -4,6 +4,7 @@
 
 theme = "blowfish"
 # baseURL = "https://your_domain.com/"
+baseURL = "https://shoggoth-industries.github.io/Main-page_shoggoth-industries/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
