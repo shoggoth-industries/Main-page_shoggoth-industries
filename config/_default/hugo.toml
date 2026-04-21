@@ -8,7 +8,8 @@ baseURL = "https://shoggoth-industries.github.io/Main-page_shoggoth-industries/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 20
+[pagination]
+  pagerSize = 10
 summaryLength = 30
 
 buildDrafts = false
